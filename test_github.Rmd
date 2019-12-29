@@ -13,7 +13,7 @@ Here's some code (change the variable names and values):
 ```{r}
 # Change these variable names and values:
 
-blue.JH <- 6
+blue.JH <- 6 lalala 
 
 red.JH <- 10
 
